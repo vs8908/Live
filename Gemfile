@@ -20,6 +20,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise'
 gem 'bcrypt', git: 'https://github.com/codahale/bcrypt-ruby.git', :require => 'bcrypt'
 gem 'jquery-rails'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 
 
 
